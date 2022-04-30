@@ -1,4 +1,4 @@
 # Array
 
-* [Array.prototype.random()](/random)
-* [Array.prototype.remove()](/remove)
+* [Array.prototype.random()](./random)
+* [Array.prototype.remove()](./remove)
