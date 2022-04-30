@@ -1,3 +1,3 @@
 # String
 
-* [String.prototype.format()](./format)
+* [String.prototype.format(...vars)](./format)
