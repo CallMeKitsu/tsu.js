@@ -1,6 +1,6 @@
 # [Array](../).prototype.random()
 
-La méthode `random` renvoie un élément aléatoire du tableau sur lequel est est appliquée.
+La méthode `random` renvoie un élément aléatoire du tableau sur lequel elle est appliquée.
 
 ```js
 let testArray = [1, 2, 3]
