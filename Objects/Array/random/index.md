@@ -1,4 +1,4 @@
-# Array.prototype.random()
+# [Array](../).prototype.random()
 
 La méthode `random` renvoie un élément aléatoire du tableau sur lequel est est appliquée.
 
