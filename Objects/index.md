@@ -1,4 +1,4 @@
 # [←](../) Global_Objects
 
-* [Array](./Objects/Array)
-* [String](./Objects/String)
+* [Array](./Array)
+* [String](./String)
