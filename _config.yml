@@ -1,4 +1,3 @@
-theme: minima
-skin: dark
+theme: github-jekyll-midnight
 title: Tsu.js
 description: Documentation complète
