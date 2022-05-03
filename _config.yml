@@ -1,3 +1,4 @@
-theme: jekyll-theme-minima
+theme: minima
+skin: dark
 title: Tsu.js
 description: Documentation complète
