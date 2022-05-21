@@ -7,7 +7,7 @@ Son implémentation en JS + HTML est la suivante :
 ```html
 <script src='callmekitsu.kitsuforyou.repl.co/h/tsu.js'></script>
 ```
-# Arborescence
+# Méthodes
 
 * [Global_Objects](./Objects)
   * [Array](./Objects/Array/)
