@@ -5,7 +5,7 @@ callmekitsu.kitsuforyou.repl.co/h/tsu.js
 ```
 Son implémentation en JS + HTML est la suivante :
 ```html
-<script src='callmekitsu.kitsuforyou.repl.co/h/tsu.js'></script>
+<script src='https://callmekitsu.kitsuforyou.repl.co/h/tsu.js'></script>
 ```
 # Méthodes
 
