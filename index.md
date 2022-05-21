@@ -22,4 +22,4 @@ Son implémentation en JS + HTML est la suivante :
   * [Synchrones](./Functions/Sync)
     * [randomColor()](./Functions/Sync/randomColor)
   * [Asynchrones](./Functions/Async)
-    * [sleep(ms)](.Functions/Async/sleep)
+    * [sleep(ms)](./Functions/Async/sleep)
