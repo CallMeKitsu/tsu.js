@@ -1,4 +1,4 @@
-# [async](../) [function](../) sleep(ms)
+# [async](../) [function](../../) sleep(ms)
 
 La fonction `sleep` arrête l'éxécution d'une fonction asynchrone pendant la durée voulue.
 
