@@ -15,3 +15,11 @@ Son implémentation en JS + HTML est la suivante :
     * [Array.prototype.remove(...indexes)](./Objects/Array/remove)
   * [String](./Objects/String/)
     * [String.prototype.format(...vars)](./Objects/String/format)
+
+# Fonctions
+
+* [Global_Functions](./Functions)
+  * [Synchrones](./Functions/Sync)
+    * [randomColor()](./Functions/Sync/randomColor)
+  * [Asynchrones](./Functions/Async)
+    * [sleep(ms)](.Functions/Async/sleep)
