@@ -1,0 +1,3 @@
+# [←](../) Synchrones
+
+* [randomColor()](./randomColor)
