@@ -13,6 +13,7 @@ Son implémentation en JS + HTML est la suivante :
   * [Array](./Objects/Array/)
     * [Array.prototype.random()](./Objects/Array/random)
     * [Array.prototype.remove(...indexes)](./Objects/Array/remove)
+    * [Array.prototype.shuffle()](./Objects/Array/shuffle)
   * [String](./Objects/String/)
     * [String.prototype.format(...vars)](./Objects/String/format)
 
