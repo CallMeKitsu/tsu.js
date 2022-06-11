@@ -16,6 +16,7 @@ Son implémentation en JS + HTML est la suivante :
     * [Array.prototype.shuffle()](./Objects/Array/shuffle)
   * [String](./Objects/String/)
     * [String.prototype.format(...vars)](./Objects/String/format)
+    * [String.prototype.without(chars)](./Objects/String/without)
 
 # Fonctions
 
