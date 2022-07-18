@@ -38,9 +38,9 @@ root
 ### Arguments
 
 * `config` (obj) : objet contenant l'ensemble des paramètres appliqués à l'arbre
-  * `.sequence` (arr | obj) : une séquence de données à représenter
+  * `.sequence` (arr / obj) : une séquence de données à représenter
   * `.line_width` (int) <optionnel> : définit la largeur de chaque ligne de l'arbre
-  * `.child_property` (str) <optionnel> : décide du nom de la propriété listant les "enfants" d'un élément
+  * `.child_property` (str) <optionnel> : décide du nom de la propriété listant les "enfants"
   * `.double_indent`(bool) <optionnel> : décide si on affiche l'arbre avec plus ou moins de lisibilité
   * `.rootname` (str) <optionnel> : le nom d'affichage de la racine de l'arbre (par défaut "root")
-  * `.rootchilds` (bool) <optionnel> : décide si la clé de l'objet ou la valeur de `name` est utilisée comme nom
+  * `.rootchilds` (bool) <optionnel> : décide si la clé de l'objet est utilisée comme nom
