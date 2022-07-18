@@ -1,4 +1,4 @@
-# [Tree](../)(config)
+# new [Tree](../)(config)
 
 Le constructeur de la classe `Tree` prend en compte un objet de configuration qui définira la manière de rendre l'arbre de représentation.
 
