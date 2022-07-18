@@ -41,3 +41,5 @@ Il est conseillé de l'ajouter afin de garantir la stabilité de votre applicati
 * [Custom_Classes](./Classes)
   * [Fraction](./Classes/Fraction)
   * [Tree](./Classes/Tree)
+    * [Tree.constructor(config)](./Classes/Tree/constructor)
+    * [Tree.string](./Classes/Tree/string)
