@@ -4,8 +4,8 @@ La classe `Tree` permet de créer un arbre de représentation de données struct
 
 ### Méthodes 
 
- * [Tree.constructor(config)](./Classes/Tree/constructor)
+ * [Tree.constructor(config)](./constructor)
  
  ### Attributs
  
- * [Tree.string](./Classes/Tree/string)
+ * [Tree.string](./string)
