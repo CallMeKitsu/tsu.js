@@ -32,7 +32,7 @@ Il est conseillé de l'ajouter afin de garantir la stabilité de votre applicati
 * [Global_Functions](./Functions)
   * [Synchrones](./Functions/Sync)
     * [randomColor()](./Functions/Sync/randomColor)
-    * [range(stop, start, step](./Function/Sync/range)
+    * [range(stop, start, step)](./Function/Sync/range)
   * [Asynchrones](./Functions/Async)
     * [sleep(ms)](./Functions/Async/sleep)
 
